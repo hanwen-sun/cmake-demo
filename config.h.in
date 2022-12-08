@@ -1,0 +1,1 @@
+#cmakedefine USE_MYMATH   // config.h的辅助文件, 预定义USE_MYMATH的值但不直接编译;
